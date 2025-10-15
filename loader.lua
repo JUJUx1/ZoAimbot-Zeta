@@ -47,7 +47,7 @@ local function main()
     local mainSuccess, mainResult = pcall(function()
         return loadModule(
             "Main Aimbot Core", 
-            "https://raw.githubusercontent.com/JUJUx1/ZoAimbot-Zeta/main/main.lua"
+            "https://raw.githubusercontent.com/JUJUx1/ZoAimbot-Zeta/refs/heads/main/main.lua"
         )
     end)
     
@@ -62,7 +62,7 @@ local function main()
     local uiSuccess, uiResult = pcall(function()
         return loadModule(
             "Mobile UI System",
-            "https://raw.githubusercontent.com/JUJUx1/ZoAimbot-Zeta/main/ui.lua"
+            "https://raw.githubusercontent.com/JUJUx1/ZoAimbot-Zeta/refs/heads/main/ui.lua"
         )
     end)
     
