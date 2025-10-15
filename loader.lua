@@ -14,7 +14,7 @@ local function loadZoAimbot()
     wait(1)
     
     -- Load UI system
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/ZoAimbot-Zeta/main/ui.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JUJUx1/ZoAimbot-Zeta/refs/heads/main/ui.lua"))()
     
     print("✅ ZO AIMBOT FULLY DEPLOYED!")
     print("🔥 Welcome to Zeta Realm, Alpha!")
