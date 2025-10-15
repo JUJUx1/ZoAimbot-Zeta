@@ -9,7 +9,7 @@ local function loadZoAimbot()
     end
     
     -- Load main system
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/YourUsername/ZoAimbot-Zeta/main/main.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/JUJUx1/ZoAimbot-Zeta/refs/heads/main/main.lua"))()
     
     wait(1)
     
